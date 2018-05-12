@@ -1,0 +1,43 @@
+_repo: The-Boy-s-Playbook-of-Science_41839
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pepper, John Henry
+    aliases:
+    - Pepper, J. H. (John Henry)
+    - Pepper, Professor (John Henry)
+    birthdate: 1821
+    deathdate: 1900
+    gutenberg_agent_id: '41389'
+    url: http://www.gutenberg.org/2009/agents/41389
+description: ''
+gutenberg_issued: '2013-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41839'
+  lccn: '32032940'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science -- Juvenile literature'
+- !lcc 'Q'
+tableOfContents: 'The properties of matter: impenetrability -- Centrifugal force --
+  The science of astronomy -- Centre of gravity -- Specific gravity -- Attraction
+  of cohesion -- Adhesive attraction -- Capillary attraction -- Crystallization --
+  Chemistry -- Chlorine, iodine, bromine, fluorine -- Carbon, boron, silicon, selenium,
+  sulphur, phosphorus -- Frictional electricity -- Voltaic electricity -- Magnetism
+  and electro-magnetism -- Electro-magnetic machines -- The electric telegraph --
+  Ruhmkorff''s, Hearder''s, and Bentley''s coil apparatus -- Magneto-electricity --
+  Dia-magnetism -- Light, optics, and optical instruments -- The refraction of light
+  -- Refracting optical instruments -- The absorption of light -- The inflection or
+  diffraction of light -- The polarization of light -- Heat -- The steam-engine.'
+title: "The Boy's Playbook of Science\r\nIncluding the Various Manipulations and Arrangements\
+  \ of Chemical and Philosophical Apparatus Required for the Successful Performance\
+  \ of Scientific Experiments in Illustration of the Elementary Branches of Chemistry\
+  \ and Natural Philosophy"
+url: http://www.gutenberg.org/ebooks/41839
