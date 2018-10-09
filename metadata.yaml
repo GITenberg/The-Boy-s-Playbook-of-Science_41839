@@ -28,6 +28,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Science -- Juvenile literature'
 - !lcc 'Q'
+- GITenberg
 tableOfContents: 'The properties of matter: impenetrability -- Centrifugal force --
   The science of astronomy -- Centre of gravity -- Specific gravity -- Attraction
   of cohesion -- Adhesive attraction -- Capillary attraction -- Crystallization --
